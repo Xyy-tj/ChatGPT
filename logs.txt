@@ -1,0 +1,8 @@
+Wed, 01 Feb 2023 16:49:58 htmldemo2.py[line:64] INFO: Its a info logger
+Wed, 01 Feb 2023 16:50:06 htmldemo2.py[line:57] INFO: 问题：再见！
+答案：Bye-bye!
+Wed, 01 Feb 2023 16:50:14 htmldemo2.py[line:57] INFO: 问题：下午好
+答案：§§ 1000
++hello
+Wed, 01 Feb 2023 16:50:35 htmldemo2.py[line:57] INFO: 问题：现在是什么时间
+答案：现在是北京时间2020年4月15日20:00
