@@ -4,7 +4,7 @@ import openai
 import logging
 
 app = Flask(__name__)
-openai.api_key = "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"
+openai.api_key = "openAi API key"
 
 
 @app.route('/')

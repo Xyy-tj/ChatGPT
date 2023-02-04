@@ -1,6 +1,6 @@
 import openai
 
-openai.api_key = "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"
+openai.api_key = "openAi API key"
 
 
 # openai.Model.list()
